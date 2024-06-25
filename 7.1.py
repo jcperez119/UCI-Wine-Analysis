@@ -6,3 +6,11 @@ fh = open(fpath)
 for line in fh: 
     line = line.rstrip()
     print(line.upper())
+
+testing edit function
+
+print("testing")
+
+x = 5
+y = 3
+print(x+y)
